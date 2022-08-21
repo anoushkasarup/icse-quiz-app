@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219767545559",
+    "project_id": "icse-quiz-app",
+    "storage_bucket": "icse-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219767545559:android:55e44deae7d86062045a92",
+        "android_client_info": {
+          "package_name": "com.example.icse_quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219767545559-6ost1vmtvd23qcagl64555ffd0jm2jsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyshoqpuY4z2UFYjcvvdY37jXE0ft2yU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219767545559-6ost1vmtvd23qcagl64555ffd0jm2jsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
